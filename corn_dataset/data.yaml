@@ -1,0 +1,12 @@
+train: E:/DASANXIA/machine_version/plantation_detect/dataset/corn_dataset/train/images
+val: E:/DASANXIA/machine_version/plantation_detect/dataset/corn_dataset/valid/images
+test: E:/DASANXIA/machine_version/plantation_detect/dataset/corn_dataset/test/images
+
+nc: 4
+names:
+  [
+    "blight（疫病）",
+    "common_rust（普通锈病）",
+    "gray_spot（灰斑病）",
+    "health（健康）",
+  ]

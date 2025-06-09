@@ -1,0 +1,11 @@
+train: E:/DASANXIA/machine_version/plantation_detect/dataset/rice_dataset/images/train
+val: E:/DASANXIA/machine_version/plantation_detect/dataset/rice_dataset/images/valid
+test: E:/DASANXIA/machine_version/plantation_detect/dataset/rice_dataset/images/test
+
+nc: 3
+names:
+  [
+    "Brown_Spot（褐斑病）",
+    "Rice_Blast（稻瘟病）",
+    "Bacterial_Blight（细菌性叶枯病）",
+  ]
